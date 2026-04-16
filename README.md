@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🅰️ Deep expertise in **Angular (8 through 18)** with standalone components, signals, `@defer` blocks, and dynamic content projection
+- 🅰️ Deep expertise in **Angular (8 through 18)** with standalone components, `@defer` blocks, and dynamic content projection
 - 🔄 Strong command of **RxJS** reactive patterns and **NgRx** state management for complex, data-driven applications
 - 📝 Build multi-step form architectures with **Reactive Forms** and architect **micro-frontends** using Webpack Module Federation
 - ⚡ Passionate about **frontend performance** through OnPush change detection, lazy loading, CDK virtual scrolling, and AOT compilation with measurable Core Web Vitals improvements
