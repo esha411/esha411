@@ -9,12 +9,13 @@
 
 ### 💡 About Me
 
-- 🚀 **8+ years** of experience building enterprise-grade full-stack web applications at scale
-- 🅰️ Deep expertise in **Angular (8–18)** - standalone components, signals, `@defer` blocks, NgRx, RxJS, Reactive Forms, and micro-frontends with Webpack Module Federation
-- ⚡ Obsessed with **frontend performance** - OnPush change detection, lazy loading, CDK virtual scrolling, AOT compilation, and Core Web Vitals optimization
-- 🛠️ Build backend services with **Java/Spring Boot** and **Node.js/Express** backed by **MongoDB**
-- ☁️ Ship to production with **Docker**, **AWS**, and **CI/CD pipelines** (Jenkins, GitHub Actions)
-- 🌱 Currently exploring **AI/LLM integration**, **MCP Servers**, and **RAG pipelines**
+- 🅰️ Deep expertise in **Angular (8 through 18)** with standalone components, signals, `@defer` blocks, and dynamic content projection
+- 🔄 Strong command of **RxJS** reactive patterns and **NgRx** state management for complex, data-driven applications
+- 📝 Build multi-step form architectures with **Reactive Forms** and architect **micro-frontends** using Webpack Module Federation
+- ⚡ Passionate about **frontend performance** through OnPush change detection, lazy loading, CDK virtual scrolling, and AOT compilation with measurable Core Web Vitals improvements
+- 🛠️ Build and maintain **Java/Spring Boot** and **Node.js/Express** microservices with **MongoDB**
+- ☁️ Ship to production with **Docker**, **AWS**, and automated **CI/CD pipelines** through Jenkins and GitHub Actions
+- 🌱 Currently diving into **AI/LLM integration**, exploring **MCP Servers**, **RAG pipelines**, and agentic workflows
 
 ---
 
